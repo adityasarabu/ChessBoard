@@ -1,0 +1,9 @@
+C:\Projects\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Projects\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Projects\ChessBoard\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Projects\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csprojAssemblyReference.cache
+C:\Projects\ChessBoard\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Projects\ChessBoard\ChessBoard\obj\Debug\ChessBoard.pdb
+C:\Projects\ChessBoard\ChessBoard\bin\Debug\Chessboard2.dll
+C:\Projects\ChessBoard\ChessBoard\bin\Debug\Chessboard2.pdb
+C:\Projects\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.CopyComplete
